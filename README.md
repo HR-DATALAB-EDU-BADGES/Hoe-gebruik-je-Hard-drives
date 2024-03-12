@@ -161,18 +161,22 @@ Vervolgens kan je de computer aan zetten,
 <img align="left" width="200" height="292" src="images-7.jpg" alt="image">
    
 terwijl die opstart blijf je drukken op Delete / F2 tot een scherm op komt,
+
+<br><br>
    
 hou dan Delete / F2 ingedrukt tot dat het scherm weg gaat.
 
 <br><br>
 
-Wanner een scherm weer zichtbaar is klik rechtsboven op "boot".
+Wanneer een scherm weer zichtbaar is klik rechtsboven op "boot".
+
+<br><br><br><br><br><br><br><br><br>
    
 Daarna scroll omlaag tot jij jouw drive versie ziet en klik op die naam.
    
 (Jouw schijf / drive naam is waarschijnlijk: Samsung T7)
 
-<br>
+<br><br>
 
 ### BELANGRIJK: Als je dit niet doet moet jouw schijf data overschreven worden.
 
