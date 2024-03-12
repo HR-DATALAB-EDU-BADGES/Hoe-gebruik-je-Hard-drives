@@ -121,7 +121,7 @@ Als het goed is staan je monitoren aan maar kan je het nog niet zien, wat je nu 
 
 Nu dat de schermen aan staan en je de context weet kan je de computer nu helemaal aan zetten door deze knop een keer in te drukken.
 
-![alt text](image-4.png)
+<img width="400" height="500" src="image-4.png" alt="image">
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -157,8 +157,8 @@ verbonden is aan de computer en de harde schijf / hard drive.
 
 Vervolgens kan je de computer aan zetten, 
 
-<img align="left" width="200" height="292" src="images-6.jpg" alt="image">
-<img align="left" width="200" height="292" src="images-7.jpg" alt="image">
+<img align="left" width="200" height="292" src="image-6.jpg" alt="image">
+<img align="left" width="200" height="292" src="image-7.jpg" alt="image">
    
 terwijl die opstart blijf je drukken op Delete / F2 tot een scherm op komt,
 
@@ -170,7 +170,7 @@ hou dan Delete / F2 ingedrukt tot dat het scherm weg gaat.
 
 Wanneer een scherm weer zichtbaar is klik rechtsboven op "boot".
 
-<br><br><br><br><br><br><br>
+<br><br><br><br
    
 Daarna scroll omlaag tot jij jouw drive versie ziet en klik op die naam.
    
