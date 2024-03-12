@@ -170,7 +170,7 @@ hou dan Delete / F2 ingedrukt tot dat het scherm weg gaat.
 
 Wanneer een scherm weer zichtbaar is klik rechtsboven op "boot".
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
    
 Daarna scroll omlaag tot jij jouw drive versie ziet en klik op die naam.
    
