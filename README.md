@@ -151,7 +151,9 @@ of usb-c + usb-c kabel,
    
 verbonden is aan de computer en de harde schijf / hard drive.
 
-<br><br>
+![alt text](image-5.png)
+
+<br><br><br><br>
 
 Vervolgens kan je de computer aan zetten, 
    
