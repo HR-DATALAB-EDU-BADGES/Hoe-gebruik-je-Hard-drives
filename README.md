@@ -49,9 +49,11 @@ maar het is altijd mogelijk om beteren hard drives te kopen met meer opslag.
 
 Hoofdstuk 1 basis: Hoe maak je een Image
 
-Hoofdstuk 2 basis: Een drive voor de eerste keer op starten
+Hoofdstuk 2 basis: Hoe start ik computer Jip/Janneke
 
-Hoofdstuk 3 basis: Hoe start je weer een Hard drive op
+Hoofdstuk 3 basis: Een drive voor de eerste keer op starten
+
+Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 
 
@@ -84,7 +86,60 @@ Hoofdstuk 3 basis: Hoe start je weer een Hard drive op
 
 
 
-## Hoofdstuk 2 basis: Een drive voor de eerste keer op starten
+
+
+
+## Hoofdstuk 2 basis: Hoe start ik computer Jip/Janneke
+
+<br><br>
+
+Als eerst gaan wij kijken naar de achterkant van de computer zie plaatje als voorbeeld.
+
+![alt text](image.png)
+
+<br><br><br><br>
+
+Je ziet dat er links onderaan op de achterkant een schakelaar staat, maak zeker dat de schakelaar zoals op het plaatje aan staat je kan dat zien als streepjes kant omlaag en de bolletjes kant omhoog.
+
+![alt text](image-1.png)
+
+<br><br><br><br>
+
+Nu staat de computer aan maar is hij nog niet opgestart.
+
+Het volgende wat je wilt doen is bij elke monitor rechts onder achteraan op de knop drukken (druk in het midden van de knop) dit zet de monitoren aan 
+
+![alt text](image-2.png)
+
+<br><br><br><br>
+
+Als het goed is staan je monitoren aan maar kan je het nog niet zien, wat je nu moet onthouden is dat bij het opstarten van de computer zal het meest rechtse monitor de werkende monitor zijn tot dat je bent ingelogd.
+
+![alt text](image-3..png)
+
+<br><br><br><br>
+
+Nu dat de schermen aan staan en je de context weet kan je de computer nu helemaal aan zetten door deze knop een keer in te drukken.
+
+![alt text](image-4.png)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hoofdstuk 3 basis: Een drive voor de eerste keer op starten
 
 <br><br>
 
@@ -139,7 +194,9 @@ Nu kan je veilig afsluiten zonder het probleem dat je niet meer kan inloggen.
 
 
 
-## Hoofdstuk 3 basis: Hoe start je weer een Hard drive op
+
+
+## Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 <br><br>
 
