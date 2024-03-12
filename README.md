@@ -121,7 +121,7 @@ Als het goed is staan je monitoren aan maar kan je het nog niet zien, wat je nu 
 
 Nu dat de schermen aan staan en je de context weet kan je de computer nu helemaal aan zetten door deze knop een keer in te drukken.
 
-<img width="400" height="500" src="image-4.png" alt="image">
+<img width="600" height="400" src="image-4.png" alt="image">
 
 <br><br><br><br><br><br><br><br><br><br>
 
