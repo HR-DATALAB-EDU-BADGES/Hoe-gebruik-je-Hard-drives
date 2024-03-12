@@ -156,6 +156,9 @@ verbonden is aan de computer en de harde schijf / hard drive.
 <br><br><br><br>
 
 Vervolgens kan je de computer aan zetten, 
+
+<img align="left" width="200" height="292" src="images-6.jpg" alt="image">
+<img align="left" width="200" height="292" src="images-7.jpg" alt="image">
    
 terwijl die opstart blijf je drukken op Delete / F2 tot een scherm op komt,
    
