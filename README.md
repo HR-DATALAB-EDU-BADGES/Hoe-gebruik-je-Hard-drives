@@ -70,7 +70,7 @@ Er zijn dus 4 schijven nog beschikbaar voor mensen die willen werken in het Data
 
 Er is wel hoe ever zoals eerder aangegeven een drive al aangemaakt voor studenten E-mail deze persoon om het wachtwoord aan te vragen: WilMJ@hr.nl
 
-<br><br><br><br><br><br><br><br><br><br
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
