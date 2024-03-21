@@ -50,18 +50,25 @@ maar het is altijd mogelijk om beteren hard drives te kopen met meer opslag.
 
 ## De status van de hard schijven 
 
+### De schijven die in bezit zijn hebben stickers met namen, maar er zijn wel 1 exceptie.
+- De studenten schijf "Stu01" zit in de kast in de ruimte van de computers Jip en Janneke.
+
 - ### sticker namen
     - Schijf 1: Sven
     - schijf 2: Laris
     - schijf 3: Schep
     - schijf 4: Mart
     - schijf 5: Rob
-    - schijf 6: stu01
+    - schijf 6: stu01 (op locatie in de kast)
     - schijf 7: (not taken)
     - schijf 8: (not taken)
     - schijf 9: (not taken)
     - schijf 10: (not taken)
     - Mark's eigen schijf: Mark
+
+Er zijn dus 4 schijven nog beschikbaar voor mensen die willen werken in het Data-lab deze zijn nog niet geprogrammeerd met een windows image.
+
+Er is wel hoe ever zoals eerder aangegeven een drive al aangemaakt voor studenten E-mail deze persoon voor de password: WilMJ@hr.nl
 
 <br><br><br><br><br><br><br><br><br><br
 
