@@ -188,7 +188,7 @@ verbonden is aan de computer en de harde schijf / hard drive.
 
 <br><br><br><br>
 
-Vervolgens kan je de computer aan zetten, 
+Vervolgens kan je de computer aan zetten.
 
 <img align="left" width="200" height="292" src="image-6.jpg" alt="image">
 <img align="left" width="200" height="292" src="image-7.jpg" alt="image">
@@ -203,7 +203,7 @@ hou dan Delete / F2 ingedrukt tot dat het scherm weg gaat.
 
 Wanneer een scherm weer zichtbaar is klik rechtsboven op "boot".
 
-<br><br><br><br
+<br><br><br><br>
    
 Daarna scroll omlaag tot jij jouw drive versie ziet en klik op die naam.
    
