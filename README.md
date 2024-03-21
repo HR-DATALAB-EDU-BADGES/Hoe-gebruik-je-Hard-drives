@@ -48,7 +48,7 @@ maar het is altijd mogelijk om beteren hard drives te kopen met meer opslag.
 
 
 
-## De status van de hard schijven 
+## De status van harde schijven. 
 
 ### De schijven die in bezit zijn hebben stickers met namen, maar er zijn wel 1 exceptie.
 - De studenten schijf "Stu01" zit in de kast in de ruimte van de computers Jip en Janneke.
