@@ -68,7 +68,7 @@ maar het is altijd mogelijk om beteren hard drives te kopen met meer opslag.
 
 Er zijn dus 4 schijven nog beschikbaar voor mensen die willen werken in het Data-lab deze zijn nog niet geprogrammeerd met een windows image.
 
-Er is wel hoe ever zoals eerder aangegeven een drive al aangemaakt voor studenten E-mail deze persoon voor de password: WilMJ@hr.nl
+Er is wel hoe ever zoals eerder aangegeven een drive al aangemaakt voor studenten E-mail deze persoon om het wachtwoord aan te vragen: WilMJ@hr.nl
 
 <br><br><br><br><br><br><br><br><br><br
 
