@@ -106,6 +106,15 @@ Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 <br>
 
+
+### <font color="red">Disclaimer !</font> om deze stap te doen moet je betalen voor een subscriptie van Parallels
+
+
+
+Een link naar een goedkope versie: https://www.surfspot.nl/parallels-desktop-19-voor-mac-1-jaar.html
+
+<br><br>
+
 Om deze taak goed uit te voeren heb je bepaalde hardware nodig om het te kunnen vermijden van de Hard drive alleen zal werken op maar een computer/laptop.
 
 Dit doe je via een MacBook het is namelijk mogelijk dat het programma Rufus op een Windows de logica van de hard drive overschrijft en dat alleen op de computer waar je het aanmaakten de schijf kan opstarten.
@@ -114,8 +123,8 @@ Dit doe je via een MacBook het is namelijk mogelijk dat het programma Rufus op e
 
 ### De hardware benodigdheden.
       
- - Een hard drive (het liefst over 500 Giga-bytes)
- - Een van deze twee soorten usb-c kabels (deze komen vaak met de aankoop van de hard drive):
+ - Een lege hard drive (Met het liefst over 500 Giga-bytes)
+ - Een van deze twee soorten usb-c kabels (Deze komen vaak met de aankoop van de harde schijf):
    - Een usb-c met usb-c kabel
    - Een usb-c met usb kabel
 
@@ -123,7 +132,9 @@ Dit doe je via een MacBook het is namelijk mogelijk dat het programma Rufus op e
  
 <br>
 
+### de software benodigdheden.
 
+- Een subscriptie op Parallels (Dit laat jouw Mac Windows interface gebruiken op Mac)
 
 
 <br><br><br><br><br><br><br><br><br><br>
