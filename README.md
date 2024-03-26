@@ -106,9 +106,9 @@ Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 <br>
 
-
-### <font color="red">Disclaimer !</font> om deze stap te doen moet je betalen voor een subscriptie van Parallels
-
+### **Disclaimer**\n
+_**********\n
+om deze stap te doen moet je betalen voor een subscriptie van Parallels\n
 
 
 Een link naar een goedkope versie: https://www.surfspot.nl/parallels-desktop-19-voor-mac-1-jaar.html
