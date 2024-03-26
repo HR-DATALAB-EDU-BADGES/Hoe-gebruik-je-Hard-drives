@@ -80,7 +80,7 @@ Er is wel hoe ever zoals eerder aangegeven een drive al aangemaakt voor studente
 
 ## Inhoudsopgave
 
-Hoofdstuk 1 basis: Hoe maak je een Image
+Hoofdstuk 1 basis: Hoe maak je een Image met Rufus en Mac
 
 Hoofdstuk 2 basis: Hoe start ik computer Jip/Janneke
 
@@ -102,9 +102,29 @@ Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 
 
-## Hoofdstuk 1 basis: Hoe maak je een Image?
+## Hoofdstuk 1 basis: Hoe maak je een Image met Rufus en Mac?
 
-<br><br>
+<br>
+
+Om deze taak goed uit te voeren heb je bepaalde hardware nodig om het te kunnen vermijden van de Hard drive alleen zal werken op maar een computer/laptop.
+
+Dit doe je via een MacBook het is namelijk mogelijk dat het programma Rufus op een Windows de logica van de hard drive overschrijft en dat alleen op de computer waar je het aanmaakten de schijf kan opstarten.
+
+<br>
+
+### De hardware benodigdheden.
+      
+ - Een hard drive (het liefst over 500 Giga-bytes)
+ - Een van deze twee soorten usb-c kabels (deze komen vaak met de aankoop van de hard drive):
+   - Een usb-c met usb-c kabel
+   - Een usb-c met usb kabel
+
+ - Een MacBook laptop of een andere non windows computer
+ 
+<br>
+
+
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -117,12 +137,7 @@ Hoofdstuk 4 basis: Hoe start je weer een Hard drive op
 
 
 
-
-
-
-
-
-## Hoofdstuk 2 basis: Hoe start ik computer Jip/Janneke
+## Hoofdstuk 2 basis: Hoe start ik computer Jip/Janneke.
 
 <br><br>
 
