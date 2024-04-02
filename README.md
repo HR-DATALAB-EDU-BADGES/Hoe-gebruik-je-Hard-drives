@@ -133,6 +133,7 @@ Dit doe je via een MacBook het is namelijk mogelijk dat het programma Rufus op e
 ### de software benodigdheden.
 
 - Een subscriptie op Parallels (Dit laat jouw Mac Windows interface gebruiken op Mac)
+- Een account van Azure (Dit is om de iso bestand te kunnen downloaden)
 
 
 <br><br><br><br><br><br><br><br><br><br>
