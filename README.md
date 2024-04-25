@@ -60,10 +60,10 @@ maar het is altijd mogelijk om beteren hard drives te kopen met meer opslag.
     - schijf 4: Mart
     - schijf 5: Rob
     - schijf 6: stu01 (op locatie in de kast)
-    - schijf 7: (not taken)
-    - schijf 8: (not taken)
-    - schijf 9: (not taken)
-    - schijf 10: (not taken)
+    - schijf 7: Dirk
+    - schijf 8: (niet in bezit) (Martijn heeft deze klaar staan thuis)
+    - schijf 9: (niet in bezit)
+    - schijf 10: (niet in bezit)
     - Mark's eigen schijf: Mark
 
 Er zijn dus 4 schijven nog beschikbaar voor mensen die willen werken in het Data-lab deze zijn nog niet geprogrammeerd met een windows image.
